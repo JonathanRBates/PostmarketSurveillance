@@ -58,6 +58,6 @@ for alpha in alphas:
         plt.show()
     else:    
         astring = str(alpha).split('.',1)[1]
-        fname = 'C:\\Users\\jb2428\\Desktop\\CORE Projects\\sample size\\figure1a_alpha{}.png'.format(astring)    
+        fname = 'figure3_alpha{}.png'.format(astring)    
         plt.savefig(fname,format='png',dpi=600,bbox_inches='tight')     
         # plt.savefig(fname,format='eps',dpi=600, bbox_inches='tight')    

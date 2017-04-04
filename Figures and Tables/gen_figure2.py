@@ -46,7 +46,7 @@ plt.xlabel('Model')
 if True:
     plt.show()
 else:
-    fname = 'C:\\Users\\jb2428\\Desktop\\CORE Projects\\sample size\\figure_utilization_distribution.png'
+    fname = 'figure2_utilization_distribution.png'
     plt.savefig(fname,format='png',dpi=600,bbox_inches='tight') 
 
 print(np.subtract(*np.percentile(x, [75, 25])))

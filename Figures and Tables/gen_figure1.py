@@ -6,7 +6,7 @@ Utilization
 
 """
 
-fname = 'Z:\\NCDR\\ICD\\cp\\For Jon\\V1DATA_SAMPLE_SIZE_PROJECT.xlsx'
+fname = 'V1DATA_SAMPLE_SIZE_PROJECT.xlsx'
 
 
 ##############################################################################

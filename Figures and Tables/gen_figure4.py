@@ -109,7 +109,7 @@ for j, gamma0 in enumerate(gamma0_):
     if True:
         plt.show()
     else:
-        fname = 'C:\\Users\\jb2428\\Desktop\\CORE Projects\\sample size\\figure4_timeline_gamma0_{}.png'.format(gamma0_label[j])
+        fname = 'figure4_timeline_gamma0_{}.png'.format(gamma0_label[j])
         plt.savefig(fname,format='png',dpi=600,bbox_inches='tight') 
     
 
