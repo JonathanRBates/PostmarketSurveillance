@@ -1,12 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-
+Figure 2
 """
 
-
 fname = 'Z:\\NCDR\\ICD\\cp\\For Jon\\V1DATA_SAMPLE_SIZE_PROJECT.xlsx'
-
-
 
 ##############################################################################
 # Import Libraries

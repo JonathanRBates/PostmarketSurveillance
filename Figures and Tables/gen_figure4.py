@@ -113,5 +113,3 @@ for j, gamma0 in enumerate(gamma0_):
         plt.savefig(fname,format='png',dpi=600,bbox_inches='tight') 
     
 
-
-
